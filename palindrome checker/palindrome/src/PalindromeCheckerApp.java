@@ -1,4 +1,4 @@
-public class  palindrome {
+public class  PalindromeCheckerApp {
 
     public static void main(String[] args) {
         System.out.println("welcome to palindrome checker");
@@ -6,4 +6,3 @@ public class  palindrome {
         System.out.println("System initialised successfully.");
     }
 }
- g
